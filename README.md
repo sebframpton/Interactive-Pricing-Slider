@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/sebframpton/Interactive-Pricing-Slider](https://github.com/sebframpton/Interactive-Pricing-Slider)
+- Live Site URL: [https://sebframpton.github.io/Interactive-Pricing-Slider/](https://sebframpton.github.io/Interactive-Pricing-Slider/)
 
 ## My process
 
